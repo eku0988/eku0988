@@ -1,4 +1,7 @@
-<h1>Hi, I'm Ekram! <br/><!--<a href="https://github.com/eku0988">Software Engineering student </a>, --><a href="https://www.linkedin.com/in/ekram-desta-534656329">5th Year Electrical and Computer Engineering Student </a></h1>
+<h1>Hi, I'm Ekram! <br/><!--<a href="https://github.com/eku0988">Software Engineering student </a>, --><a href="https://www.linkedin.com/in/ekram-desta-534656329"></a></h1>
+<ul><li>5th Year Electrical and Computer Engineering Student. </li>
+<li>I am a learner of the ALX Backend-End Program. </li>
+<li>I am A2SVian.</li></ul>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h2> 🤳 Connect with me:</h2>
